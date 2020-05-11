@@ -95,3 +95,25 @@ When we think about where to store the data we should think about how the data g
 
 
 # Database design
+- Determines how data is logically stored
+
+How is data going to be read and updated?
+
+Uses database models: high-level specications for database structure
+
+Most popular: relational model
+
+Some other options: NoSQL models, object-oriented model, network model
+
+Uses schemas: blueprint of the database
+
+Defines tables, fields, relationships, indexes, and views
+
+
+
+# Beyond the relational model: Dimensional modeling
+
+
+This is the adaptation of the relational model for data warehouse design. It is optimized for OLAP queries: aggregate data, not updating (OLTP). This is Built using the star schema and Easy to interpret and extend schema.
+
+Two elements of dimensional modeling:
