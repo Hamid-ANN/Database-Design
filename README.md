@@ -1,20 +1,3 @@
-# Database-Design
-
-# How should we organize and manage data?
-
-Schemas: How should my data be logically organized?
-
-Normalization: Should my data have minimal dependency and redundancy?
-
-Views: Whatjoins will be done most often?
-
-Access control: Should all users of the data have the same level of access
-
-DBMS: How do I pick between all the SQL and noSQL options?
-
-and more!
-
-
 # Approaches to processing data
 
 <b>OLTP:</b> 
@@ -100,3 +83,15 @@ Need to catalog data otherwise becomes a data swamp
 Run big data analytics using services such as Apache Spark and Hadoop
 
 Useful for deep learning and data discovery because activities require so much data
+
+
+When we think about where to store the data we should think about how the data get there and in what form:
+
+<b>ETL</b>: Extract trasnform load
+
+
+<b>ELT</b> Extract  load trasnform
+
+
+
+# Database design
