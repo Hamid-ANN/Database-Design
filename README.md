@@ -17,6 +17,8 @@ Calculate books with best profit, Find the averate transction, ..
 <b>Before implementing anything we should figure out besinnes requirements</b>
 
 
+
+
 Structuring data:
 
 1. Structured data
