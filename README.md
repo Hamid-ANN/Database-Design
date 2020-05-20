@@ -19,6 +19,8 @@ Calculate books with best profit, Find the averate transction, ..
 
 
 
+
+
 Structuring data:
 
 1. Structured data
@@ -41,6 +43,10 @@ e.g., photos, chatlogs, MP3
 Does not follow larger schema
 Self-describing structure
 e.g.,NoSQL, XML, JSON
+
+
+
+
 
 
 
