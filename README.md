@@ -1,12 +1,9 @@
 # Approaches to processing data
 
-
-
 <b>OLTP:</b> 
 Online Transaction Processing.  They are application oriented. 
 snapshot of data, gigabyte size. This is used by thoudands of people like constumers.
 Find a price of a book, costomer transanction, employees hours 
-
 
 <b>OLAP:</b> 
 Online Analytical Processing. Oriented around a certain subject thats under analysis like averahe sale.
