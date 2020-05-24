@@ -18,8 +18,6 @@ Calculate books with best profit, Find the averate transction, ..
 
 
 
-
-
 Structuring data:
 
 1. Structured data
